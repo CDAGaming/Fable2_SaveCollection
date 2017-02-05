@@ -31,4 +31,4 @@
 
 <h2>Copyright / License</h2>
 <p>These Saves are Provided under the GNU General Public Licence V3, hence you are allowed to distribute these saves, as long as credit is given to it's original author (me).</p> 
-<p>You can View the license [Here](http://www.gnu.org/licenses/gpl-3.0)</p>
+You can View the License [Here](http://www.gnu.org/licenses/gpl-3.0)
